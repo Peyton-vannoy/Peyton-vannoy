@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Peyton-vannoy
-- 👀 I’m interested in Bartending, Coding, Reading Books ( my favorite series right now is the Red Rising books by Pierce Brown ).
+- 👀 I’m interested in Bartending, Coding, and Reading Books ( my favorite series right now is the Red Rising books by Pierce Brown ).
 - 🌱 I’m currently learning How to code through TripleTen (HTML5, CSS3, JavaScript, React)
 - 💞️ I’m looking to collaborate on anything I can contribute to and take any guidance
 - 📫 How to reach me
