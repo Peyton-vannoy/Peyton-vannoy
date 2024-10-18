@@ -17,7 +17,7 @@ I'm a passionate bartender turned aspiring web developer, currently on an exciti
 I'm always excited to collaborate, learn from others, and take on new challenges. Whether you're a fellow coder, book enthusiast, or just want to chat, feel free to reach out!
 
 - 💼 LinkedIn: [Peyton Vannoy](www.linkedin.com/in/peyton-vannoy)
-- 📧 Email: [Contact Me](peyton.vannoy1999@gmail.com)
+- 📧 Email: [Contact Me](mailto:peyton.vannoy1999@gmail.com)
 
 ## 🛠️ Skills
 - HTML5
