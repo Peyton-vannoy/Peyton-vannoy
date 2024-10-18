@@ -34,10 +34,12 @@ I'm always excited to collaborate, learn from others, and take on new challenges
 
 ### Around The U.S.
 [![Around The U.S.](https://github-readme-stats.vercel.app/api/pin/?username=Peyton-vannoy&repo=se_project_aroundtheus)](https://github.com/Peyton-vannoy/se_project_aroundtheus)
+
 A responsive web application showcasing images from across the United States. Built with HTML5, CSS3, and JavaScript, it features a dynamic image gallery and adapts seamlessly to various screen sizes.
 
 ### WTWR (What to Wear?)
 [![WTWR](https://github-readme-stats.vercel.app/api/pin/?username=Peyton-vannoy&repo=se_project_react)](https://github.com/Peyton-vannoy/se_project_react)
+
 A full-stack React application that provides clothing recommendations based on the current weather. It includes user authentication, a RESTful API, and integrates with a weather service.
 
 ## 😄 Pronouns
