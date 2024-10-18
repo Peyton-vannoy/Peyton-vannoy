@@ -30,9 +30,15 @@ I'm always excited to collaborate, learn from others, and take on new challenges
 ## 📈 GitHub Stats
 ![Peyton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peyton-vannoy&show_icons=true&theme=radical)
 
-## 🌟 Featured Projects
-- [Around The U.S.](https://github.com/Peyton-vannoy/se_project_aroundtheus) - Around The U.S. is a responsive web application that allows users to explore images of various locations across the United States. You can add and delete various cards, also update user info.
-- [WTWR](https://github.com/Peyton-vannoy/se_project_react) - A Fullstack application where users can create an account or log in. Add clothing items and view them. It will also provide you with some clothes recommendation for the current weather outside. (working on setting location based on where the user is currently) 
+## Featured Projects
+
+### Around The U.S.
+[![Around The U.S.](https://github-readme-stats.vercel.app/api/pin/?username=Peyton-vannoy&repo=se_project_aroundtheus)](https://github.com/Peyton-vannoy/se_project_aroundtheus)
+A responsive web application showcasing images from across the United States. Built with HTML5, CSS3, and JavaScript, it features a dynamic image gallery and adapts seamlessly to various screen sizes.
+
+### WTWR (What to Wear?)
+[![WTWR](https://github-readme-stats.vercel.app/api/pin/?username=Peyton-vannoy&repo=se_project_react)](https://github.com/Peyton-vannoy/se_project_react)
+A full-stack React application that provides clothing recommendations based on the current weather. It includes user authentication, a RESTful API, and integrates with a weather service.
 
 ## 😄 Pronouns
 He/Him
