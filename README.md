@@ -19,12 +19,12 @@ I'm always excited to collaborate, learn from others, and take on new challenges
 - 💼 LinkedIn: [Peyton Vannoy](www.linkedin.com/in/peyton-vannoy)
 - 📧 Email: [Contact Me](mailto:peyton.vannoy1999@gmail.com)
 
-## 🛠️ Skills
-- HTML5
-- CSS3
-- JavaScript
-- React (in progress)
-- Node.js (in progress)
+## Skills
+![HTML5](https://progress-bar.dev/90/?title=HTML5)
+![CSS3](https://progress-bar.dev/85/?title=CSS3)
+![JavaScript](https://progress-bar.dev/80/?title=JavaScript)
+![React](https://progress-bar.dev/70/?title=React)
+![Node.js](https://progress-bar.dev/60/?title=Node.js)
 - Bartending & Mixology
 
 ## 📈 GitHub Stats
