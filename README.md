@@ -11,7 +11,7 @@ I'm a passionate bartender turned aspiring web developer, currently on an exciti
 ## 🎯 Interests
 - 🍹 Crafting innovative cocktails and mastering mixology
 - 💻 Exploring the world of coding and web development
-- 📖 Diving into sci-fi literature (currently obsessed with the Red Rising series by Pierce Brown)
+- 📖 Diving into sci-fi literature
 
 ## 🤝 Let's Connect!
 I'm always excited to collaborate, learn from others, and take on new challenges. Whether you're a fellow coder, book enthusiast, or just want to chat, feel free to reach out!
@@ -23,12 +23,11 @@ I'm always excited to collaborate, learn from others, and take on new challenges
 - HTML5
 - CSS3
 - JavaScript
-- React (in progress)
-- Node.js (in progress)
+- React
+- Node.js
+- Express.js
+- MongoDB
 - Bartending & Mixology
-
-## 📈 GitHub Stats
-![Peyton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peyton-vannoy&show_icons=true&theme=radical)
 
 ## Featured Projects
 
